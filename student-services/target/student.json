@@ -1,0 +1,32 @@
+﻿[
+  {
+    "name": "Brian",
+    "age": 25,
+    "registrationNumber": 12356
+  },
+  {
+    "name": "Phil",
+    "age": 48,
+    "registrationNumber": 92837
+  },
+  {
+    "name": "James",
+    "age": 23,
+    "registrationNumber": 97383
+  },
+  {
+    "name": "Robert",
+    "age": 36,
+    "registrationNumber": 737373
+  },
+  {
+    "name": "Kenneth",
+    "age": 98,
+    "registrationNumber": 48033
+  },
+  {
+    "name": "Zion",
+    "age": 63,
+    "registrationNumber": 40439
+  }
+]
